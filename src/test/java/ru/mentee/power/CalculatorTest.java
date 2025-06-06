@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.*;
 
-@Nested
+
 public class CalculatorTest {
     private final Main.Calculator calculator = new Main.Calculator();
 
